@@ -9,7 +9,7 @@ const fetchVideoInfo = require('youtube-info');
 const yt_api_key = "AIzaSyDeoIH0u1e72AtfpwSKKOSy3IPp2UHzqi4";
 const prefix = 'Aa';
 client.on('ready', function() {
-client.user.setGame('You are my heart!')
+client.user.setGame('qvb7')
 client.user.setStatus('idle')
     console.log(`i am ready ${client.user.username}`);
 });
