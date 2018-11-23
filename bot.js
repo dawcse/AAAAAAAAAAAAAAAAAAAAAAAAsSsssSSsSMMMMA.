@@ -10,7 +10,7 @@ const yt_api_key = "AIzaSyDeoIH0u1e72AtfpwSKKOSy3IPp2UHzqi4";
 const prefix = 'Aa';
 client.on('ready', function() {
 client.user.setGame('احتفل بصمت, فهناك من يتألم')
-client.user.setStatus('idle')
+client.user.setStatus('Do Not Disturb')
     console.log(`i am ready ${client.user.username}`);
 });
 
